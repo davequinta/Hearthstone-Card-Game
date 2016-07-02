@@ -1,5 +1,6 @@
 # Hearthstone Card Game
-Final project for the subject POO
+Final project for the subject POO.
+
 Members:
 -César Armando López Lima
 -Emilio José Campos Méndez
